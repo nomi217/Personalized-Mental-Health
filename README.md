@@ -1,1 +1,1 @@
-# Personalized-Mental-Health
+# Personalized Mental Health Companion
